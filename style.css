@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:#3D9AD1 ;
+    padding: 25px;
+}
+nav a {
+    background-color: #F83E5B;
+    padding: 10px;
+    margin: 75px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+main p{
+    background-color: #F10026;
+    font-size: 30px;
+}
+main img {
+    width: 500px;
+    height: 400px;
+    margin: 100px;
+}
+footer {
+    background-color: #A68A00;
+    padding: 5px;
+}
+footer p {
+    background-color: white;
+    margin: 5px;
+}
+.icon {
+    background-color: #FFDF40;
+}
